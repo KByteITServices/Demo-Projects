@@ -14,7 +14,7 @@ The **Demo Project** showcases sample implementations, configurations, and templ
 
 ## 🔗 Company Information
 
-*** KByte IT Services Ltd ***
+** KByte IT Services Ltd **
 
 IT Support: [IT Support](https://kbyte.co.uk)  
 Contact Us: [Contact IT Support](https://kbyte.co.uk/contact/)  
