@@ -1,1 +1,12 @@
+title: KByte Demo Projects
+description: Demonstration repository by KByte IT Services Ltd
+author: KByte IT Services Ltd
+url: "https://kbyteitservices.github.io"
+baseurl: ""  # Leave empty since the site is published from the root
+theme: minima
+markdown: kramdown
+
+# Optional settings
+show_downloads: false
+permalink: pretty
 
